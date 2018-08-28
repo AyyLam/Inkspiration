@@ -2,8 +2,8 @@
 
 ** PROJECT WIP **
 
-Frontend Repo: https://github.com/AyyLam/Inkspiration-frontend
-Backend Repo: https://github.com/AyyLam/Inkspiration-backend
+- [Frontend Repository](https://github.com/AyyLam/Inkspiration-frontend)
+- [Backend Repository](https://github.com/AyyLam/Inkspiration-backend)
 
 ## About
 Inkspiration was created to tackle two problems in the tattoo industry today. 
